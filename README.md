@@ -69,8 +69,3 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfagundes&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
