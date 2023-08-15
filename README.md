@@ -63,3 +63,5 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <span><img src="https://img.shields.io/badge/Figma-%23A25AFF" alt=""/></span>
 <span><img src="https://img.shields.io/badge/Notion-black" alt=""/></span>
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark)
