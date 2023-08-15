@@ -64,5 +64,8 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <span><img src="https://img.shields.io/badge/Notion-black" alt=""/></span>
 <hr>
 
-![Alexandre Fagundes's GitHub status](https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark)
-[![alfagundes/alfagundes - GitHub](https://gh-card.dev/repos/alfagundes/alfagundes.svg)](https://github.com/alfagundes/alfagundes)
+<div>
+<a href="https://github.com/alfagundes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfagundes&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
