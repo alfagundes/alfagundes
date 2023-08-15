@@ -6,8 +6,8 @@ Atualmente trabalho como Quality Assurance e Pentest.
 
 No momento estou totalmente imerso em Testes de software, cyber security e DevOps (Azure, Github Actions e Gitlab CI/DI), procuro me atualizar com as novas tecnologias. Também tenho estou estudando python para uso de IA, blockchain.
 
-- 🌱 Atualmente estou trabalhando em ... Testes automatizados, Code Review e Pentest.
-- 👯 Atualmente estou estudando ... Python para IA e Cyber Security.  
+- :keyboard: Atualmente estou trabalhando em ... Testes automatizados, Code Review e Pentest.
+- :desktop_computer: Atualmente estou estudando ... Python para IA e Cyber Security.  
 
 <h2 align="center">Conhecimentos</h2>
 
