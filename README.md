@@ -64,4 +64,5 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <span><img src="https://img.shields.io/badge/Notion-black" alt=""/></span>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark)
+![Alexandre Fagundes's GitHub status](https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alfagundes&repo=github-readme-stats)]
