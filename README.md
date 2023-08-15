@@ -65,4 +65,4 @@ Abaixo segue algumas das tecnologias que tenho conhecimento e já trabalhei em a
 <hr>
 
 ![Alexandre Fagundes's GitHub status](https://github-readme-stats.vercel.app/api?username=alfagundes&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/a/github-readme-stats)
+[![alfagundes/alfagundes - GitHub](https://gh-card.dev/repos/alfagundes/alfagundes.svg)](https://github.com/alfagundes/alfagundes)
